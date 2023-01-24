@@ -15,3 +15,5 @@ Login, select your desired BPM, songs/artists to use as seeds and generate a pla
 Runify uses Spotify's authorization code flow so we never have access to your Spotify credential. Simply log in through Spotify and you will be redirected back to our webpage with a token that expires in 60 minutes.
 
 <img src="./auth_flow.png" style="max-height: 900px">
+
+![Usage](./auth_flow.png)
