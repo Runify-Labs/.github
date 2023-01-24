@@ -19,3 +19,5 @@ Runify uses Spotify's authorization code flow so we never have access to your Sp
  <source media="(prefers-color-scheme: light)" srcset="./auth_flow.png">
  <img alt="test" src="./auth_flow.png">
 </picture>
+
+![Youtube_loading_symbol_1](https://user-images.githubusercontent.com/61401093/214414453-57835420-1462-484e-b34f-f08094ace746.gif)
