@@ -14,5 +14,5 @@ Runify uses Spotify's authorization code flow so we never have access to your Sp
 ## Usage
 
 Login, select your desired BPM, songs/artists to use as seeds and generate a playlist!
-<br/>
+
 <img src="./Runify.gif" style="max-height: 900px">
