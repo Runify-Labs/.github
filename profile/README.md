@@ -8,16 +8,10 @@ This app helps you easily create playlists at a desired BPM to match your cadenc
 
 Login, select your desired BPM, songs/artists to use as seeds and generate a playlist!
 
-<img src="./Runify.gif" style="max-height: 900px">
+<img src="https://res.cloudinary.com/dixtgpaos/image/upload/v1674594724/Runify_ctxeet.gif" style="max-height: 900px">
 
 ## Login With Spotify
 
 Runify uses Spotify's authorization code flow so we never have access to your Spotify credential. Simply log in through Spotify and you will be redirected back to our webpage with a token that expires in 60 minutes.
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="./auth_flow.png">
- <source media="(prefers-color-scheme: light)" srcset="./auth_flow.png">
- <img alt="test" src="./auth_flow.png">
-</picture>
-
-![Youtube_loading_symbol_1](https://user-images.githubusercontent.com/61401093/214414453-57835420-1462-484e-b34f-f08094ace746.gif)
+<img src="https://res.cloudinary.com/dixtgpaos/image/upload/v1674594761/auth_flow_jpyjti.png" style="max-height: 900px">
